@@ -64,5 +64,13 @@
       "sku-selector",
       "product-quantity"
     ]
+  },
+
+  "sku-selector": {
+    "props": {
+      "showValueForVariation": "image",
+      "showVariationsErrorMessage": true,
+      "initialSelection": "empty"
+    }
   }
 } 
